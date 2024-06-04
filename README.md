@@ -7,3 +7,5 @@ el **Growth Mindset** es una mentalidad de crecimiento, o mentalidad de crecimie
 - Confía en tu capacidad
 - Ver al fracaso como un paso hacia el éxito
 - [leer más](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+## Mi portalofio 
+- [Portafolio](https://github.com/sheryyyl/readingNotes/edit/main/README.md)
