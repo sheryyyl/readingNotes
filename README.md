@@ -10,5 +10,10 @@ el **Growth Mindset** es una _mentalidad de crecimiento_, implica creer en nosot
 >
 >Mantener una mentalidad de crecimiento no es un camino que debas recorrer solo.
 
-## Mi Portafolio 
-- [Portafolio](https://github.com/sheryyyl/readingNotes/edit/main/README.md)
+# Mi Portafolio
+
+## Sobre Mí
+Soy **Sheryl**, estudiante universitaria con gusto a la tecnología. Actualmente busco adrentarme más al mundo de la programación.
+## Contacto
+Puedes contactarme a través de:
+- **Correo Electrónico**: condorisheryl@gmail.com
