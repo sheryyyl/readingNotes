@@ -4,3 +4,5 @@ Una mentalidad de crecimiento, o mentalidad de crecimiento, implica creer en nos
 **.Mira los desafíos como oportunidades de aprendizaje**
 .Confía en tu capacidad
 .Ver al fracaso como un paso hacia el éxito
+**.Mira los desafíos como oportunidades de aprendizaje**
+**.Mira los desafíos como oportunidades de aprendizaje**
