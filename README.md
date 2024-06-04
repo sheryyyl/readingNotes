@@ -6,6 +6,9 @@ el **Growth Mindset** es una _mentalidad de crecimiento_, implica creer en nosot
 - Mira los desafíos como oportunidades de aprendizaje
 - Confía en tu capacidad
 - Ver al fracaso como un paso hacia el éxito
+>[!NOTE]
+>
+>This is a standard NOTE block.
 
 ## Mi portalofio 
 - [Portafolio](https://github.com/sheryyyl/readingNotes/edit/main/README.md)
