@@ -13,7 +13,7 @@ el **Growth Mindset** es una _mentalidad de crecimiento_, implica creer en nosot
 ## Mi Portafolio
 
 ### Sobre Mí
-Soy **Sheryl**, estudiante universitaria con gusto a la tecnología. Actualmente busco adrentarme más al mundo del desarrollo de software especialmente en el rubro de la inteligencia artificial especialmente en el campo del turismo.
+Soy **Sheryl**, estudiante universitaria con gusto a la tecnología. Actualmente busco adrentarme más al mundo del _desarrollo de software_ especialmente en el rubro de la inteligencia artificial especialmente en el campo del turismo.
 ### Contacto
 Puedes contactarme a través de:
 - **Correo Electrónico**: condorisheryl@gmail.com
