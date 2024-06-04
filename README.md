@@ -10,5 +10,5 @@ el **Growth Mindset** es una _mentalidad de crecimiento_, implica creer en nosot
 >
 >Mantener una mentalidad de crecimiento no es un camino que debas recorrer solo.
 
-## Mi portalofio 
+## Mi Portafolio 
 - [Portafolio](https://github.com/sheryyyl/readingNotes/edit/main/README.md)
