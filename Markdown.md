@@ -49,3 +49,17 @@ Guion `-`
 
 "-" Elemento de lista
 - Otro elemento de lista
+
+# Ejercicios para completar
+
+## Completa los espacios en blanco con la palabra correcta
+
+1. Markdown es un ______________ de marcado ligero.
+2. Utilizamos Markdown por su ______________, ______________, ______________, ______________ y ______________.
+3. El símbolo que se usa para crear un encabezado en Markdown es ______________.
+4. Para crear el título más grande se utiliza ______________ (símbolo).
+5. Para crear el título más pequeño se utilizan ______________ (símbolos).
+6. Para poner texto en **negrita** se usan los símbolos ______________ o ______________.
+7. Para poner texto en *cursiva* se usan los símbolos ______________ o ______________.
+8. Para crear un vínculo en Markdown se usa la sintaxis ______________.
+9. Los tres símbolos que se pueden usar para crear una lista desordenada son ______________, ______________ y ______________.
