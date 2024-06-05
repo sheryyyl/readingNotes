@@ -1,6 +1,6 @@
 # ¿Qué es Markdown?
 - Markdown nació como herramienta de conversión de texto plano a HTML.
--Se utiliza principalmente para formatear documentos, comentarios, README files, comentarios de foros y muchos otros contextos en los que el texto formateado debe leerse y escribirse fácilmente en texto sin formato.
+- Se utiliza principalmente para formatear documentos, comentarios, README files, comentarios de foros y muchos otros contextos en los que el texto formateado debe leerse y escribirse fácilmente en texto sin formato.
 
 # ¿Por qué utilizamos Markdown?
 Existe más de una razón para usar Markdown....
