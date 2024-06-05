@@ -4,25 +4,25 @@ Se utiliza principalmente para formatear documentos, comentarios, README files, 
 
 # ¿Por qué utilizamos Markdown?
 Existe más de una razón para usar Markdown....
-Es fácil de aprender y usar, teniendo una sintaxis mínima y clara.
-los archivos Markdown pueden ser abiertos y editados en cualquier editor de texto.
-el texto escrito en Markdown es fácil de leer.
-Es ampliamente soportado por muchas plataformas y herramientas, incluyendo GitHub, Jupyter Notebooks, y muchos sistemas de gestión de contenido.
+- **Simplicidad** Es fácil de aprender y usar, teniendo una sintaxis mínima y clara.
+- **Portabilidad** los archivos Markdown pueden ser abiertos y editados en cualquier editor de texto.
+- **Legibilidad** el texto escrito en Markdown es fácil de leer.
+- **Versatilidad** Es ampliamente soportado por muchas plataformas y herramientas, incluyendo GitHub, Jupyter Notebooks, y muchos sistemas de gestión de contenido.
 
 # ¿Qué símbolo creará un encabezado en Markdown?
-El símbolo # (almohadilla) se utiliza para crear encabezados en Markdown.
+- Símbolo: `#` (almohadilla) se utiliza para crear encabezados en Markdown.
+
 
 ## ¿Cuántos necesitas para crear el título más grande?
-Para crear el título más grande, necesitas un solo #.
-"#" Este es un encabezado de nivel 1 (el más grande)
+- Título más grande: `#` (1 símbolo) sirve para crear el título más grande.
+- "#" Este es un encabezado de nivel 1 (el más grande)
 
 ## ¿Cuántos necesitas para crear el título más pequeño?
-Para crear el título más pequeño, necesitas seis #.
-
-"######" Este es un encabezado de nivel 6 (el más pequeño)
+- Título más grande: "######" (6 símbolos) sirve para crear el título más pequeño.
+- "#" Este es un encabezado de nivel 6 (el más pequeño)
 
 # Al poner el texto en negrita o cursiva para darle énfasis, ¿qué símbolo es la mejor práctica?
-Para poner texto en negrita se utiliza el doble asterisco "**" o doble guion bajo "__".
+- Para poner texto en negrita se utiliza el doble asterisco "**" o doble guion bajo "__".
 **negrita** o __negrita__
 
 # ¿Cómo se crea un vínculo con Markdown?
