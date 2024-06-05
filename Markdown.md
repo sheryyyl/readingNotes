@@ -21,15 +21,15 @@ Para crear el título más pequeño, necesitas seis #.
 
 "######" Este es un encabezado de nivel 6 (el más pequeño)
 
-## Al poner el texto en negrita o cursiva para darle énfasis, ¿qué símbolo es la mejor práctica?
+# Al poner el texto en negrita o cursiva para darle énfasis, ¿qué símbolo es la mejor práctica?
 Para poner texto en negrita se utiliza el doble asterisco "**" o doble guion bajo "__".
 **negrita** o __negrita__
 
-## ¿Cómo se crea un vínculo con Markdown?
+# ¿Cómo se crea un vínculo con Markdown?
 Para crear un vínculo (enlace) en Markdown, se usa la siguiente sintaxis:
 [texto del enlace](URL)
 
-## ¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?
+# ¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?
 Los tres símbolos que se pueden usar para crear una lista desordenada son:
 
 Asterisco "*"
