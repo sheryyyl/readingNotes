@@ -36,11 +36,11 @@ Asterisco "*"
 Signo más "+"
 Guion "-"
 
-* Elemento de lista
+"*" Elemento de lista
 * Otro elemento de lista
 
-+ Elemento de lista
+"+" Elemento de lista
 + Otro elemento de lista
 
-- Elemento de lista
+"-" Elemento de lista
 - Otro elemento de lista
