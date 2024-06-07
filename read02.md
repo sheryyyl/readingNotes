@@ -4,8 +4,8 @@
 - Soporte para Plugins y Extensiones
 - Búsqueda y Reemplazo Avanzados
 # ¿Qué hacen los siguientes comandos?
- __pwd:__ muestra donde esta ubicado
-- ls:permite mostrar el contenido de un directorio o carpeta
+ "pwd:" muestra donde esta ubicado
+ "ls:" permite mostrar el contenido de un directorio o carpeta
 - cd (change directory) Puede cambiar de directorio especificando la ruta
 - mkdir : Crea un nuevo directorio
 - touch: cambia la marca de tiempo de un archivo
