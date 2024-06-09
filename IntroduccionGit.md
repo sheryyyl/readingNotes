@@ -1,13 +1,13 @@
 # ¿Qué es el control de versiones?
-sistema que registra los cambios realizados en un archivo o conjunto de archivos a lo largo del tiempo
-Permite a los desarrolladores colaborar y trabajar simultáneamente en proyectos, permite ver que cambios se realizaron y revertir versiones anteriores.
+- Es un sistema que registra los cambios realizados en un archivo o conjunto de archivos a lo largo del tiempo
+- Permite a los desarrolladores colaborar y trabajar simultáneamente en proyectos, permite ver que cambios se realizaron y revertir versiones anteriores.
 
 # ¿Qué es “clone” en Git?
-El comando clone crea una copia local de un repositorio remoto.
-es útil cuando deseas trabajar en un proyecto existente que se encuentra en un servidor remoto
+- El comando 'clone' crea una copia local de un repositorio remoto.
+- Es útil cuando deseas trabajar en un proyecto existente que se encuentra en un servidor remoto.
 
 # ¿Cuál es el comando para rastrear y preparar archivos?
-para añadir o rastrear commit usamos "git add" puede añadir archivos específicos
+- Este comando sirve para añadir o rastrear commit usamos "git add" puede añadir archivos específicos
 - Añadir un archivo específico:
 git add nombre_del_archivo
 - Añadir todos los archivos nuevos o modificados en el directorio actual:
