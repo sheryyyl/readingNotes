@@ -8,9 +8,9 @@
 
 ## ¿Cuál es el comando para rastrear y preparar archivos?
 - Este comando sirve para añadir o rastrear commit usamos `git add` puede añadir archivos específicos
-- `Añadir un archivo específico:`
+    - `Añadir un archivo específico:`
 git add nombre_del_archivo
-- `Añadir todos los archivos nuevos o modificados en el directorio actual:`
+    - `Añadir todos los archivos nuevos o modificados en el directorio actual:`
 git add .
 
 ## ¿Cuál es el comando para tomar una instantánea de los archivos modificados?
