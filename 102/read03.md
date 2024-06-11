@@ -19,4 +19,8 @@ git add .
 - Este comando guarda los cambios realizados en el repositorio local. Generalmente se usa con la opción `-m` para incluir un mensaje que describe los cambios realizados:
 
 ## ¿Cuál es el comando para enviar los archivos modificados a GitHub?
+<<<<<<< HEAD
 - El comando `git push` sube el contenido de un repositorio local a un repositorio central. Dado que este comando sobrescribe los cambios, solo debe ejecutarse con una rama vacía como objetivo.
+=======
+- El comando `git push` sube el contenido de un repositorio local a un repositorio central. Dado que este comando sobrescribe los cambios, solo debe ejecutarse con una rama vacía como objetivo.
+>>>>>>> d862c409ad54a970a0f252911407203519e12f2e
