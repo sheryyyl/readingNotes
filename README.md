@@ -22,5 +22,8 @@ Puedes contactarme a través de:
 
 ## Notas de lectura del CODE 102
 1. [Aprendiendo Markdown](/102/Markdown.md)
-1. [Comandos en Markdown](/102/read02.md)
+2. [Comandos en Markdown](/102/read02.md)
+3. [Control de versiones](/102/read03.md)
+4. [clase4](/102/read04.md)
+
 
