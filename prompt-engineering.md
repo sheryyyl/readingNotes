@@ -1,3 +1,4 @@
+# ¿Cómo hacer una salsa ragú?
 ## Salsa Ragú
 
 **Ingredientes:**
@@ -24,7 +25,7 @@
 7. Sazona con sal y pimienta al gusto. ¡Listo!
 
 ---
-
+# Enséñame una nueva escala en la guitarra.
 ## Escala Pentatónica Mayor en la Guitarra
 
 ### Patrón 1 (Posición 1):
@@ -46,6 +47,7 @@ E|5--7---------------------|
 Practica moviendo estos patrones a lo largo del mástil para tocar en diferentes tonalidades.
 
 ---
+# Enséñame cómo cambiar el aceite de mi carro
 
 ## Cambio de Aceite del Carro
 
