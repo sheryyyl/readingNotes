@@ -10,15 +10,15 @@
 
 3. ¿Por qué es importante tener contenido de respaldo en el elemento `<video>`?
 
-- 
+- El contenido de respaldo es importante para que, si el navegador no soporta el video, los usuarios vean un mensaje alternativo o tengan otra opción para acceder al contenido. Esto hace que la experiencia sea más amigable y accesible para todos.
 
 4. Escribe una historia corta en donde `<audio>` y `<video>` son personajes. A Complete Guide To Grid
 
-- 
+- Tenemos a Audio y Video quienes eran grandes compañeros en la web. Audio siempre traía la mejor música y efectos, y Video hacía que todo se viera increíble. A veces necesitaban ayuda de los controles, pero siempre trabajaban bien juntos. Un día, un navegador viejo no los reconoció, pero no se preocuparon, porque tenían un buen plan de respaldo para seguir en acción.
 
 5. ¿En qué se diferencia el layout Grid del Flex?
 
-- 
+- **Grid** es mejor para hacer diseños en dos dimensiones `(filas y columnas)`, mientras que Flexbox es ideal para organizar cosas en una sola fila o columna, grid es más útil para layouts complejos.
 
 6. Grid container, grid item, y grid line son algunos de los términos importantes que se deben entender al utilizar Grid. Por favor describe estos términos en unas pocas frases.
 
