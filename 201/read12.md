@@ -19,7 +19,6 @@
 - **Chart.js** es una librería de JavaScript para crear gráficos interactivos y animados en aplicaciones web.
 
 2. Enumera 3 tipos diferentes de gráficos que puedes crear utilizando Chart.js.
-
     - `Gráfico de barras` **(Bar Chart)**
     - `Gráfico de líneas` **(Line Chart)**
     - `Gráfico circular` **(Pie Chart)**
